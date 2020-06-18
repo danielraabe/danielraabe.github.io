@@ -1,6 +1,6 @@
 # Earl J. Hickey
 
-## *"Karma is a funny thing."*
+## Karma is a funny thing
 
 ### Bio
 
